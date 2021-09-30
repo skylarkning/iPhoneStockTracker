@@ -1,4 +1,10 @@
 # coding: utf-8
+__author__      = "Sky Ning"
+__copyright__   = "Copyright 2021, Sky Ning"
+
+#免责声明：本代码仅限个人学习用途使用。未经允许禁止外传，使用该代码代表代码使用者同意承担一切风险。
+#Disclaimer: This script is only for personal use for the purpose of study. Do not spread the code without authorization. 
+
 import requests
 import time
 import urllib3
